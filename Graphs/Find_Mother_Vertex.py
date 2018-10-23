@@ -34,7 +34,8 @@ class Graph:
         else:
             return -1
             
-            
+      
+# test change for smartgit      
 g = Graph(7)
 g.insert(0,1)
 g.insert(0,2)
